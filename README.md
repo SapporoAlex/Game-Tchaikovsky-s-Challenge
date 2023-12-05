@@ -26,7 +26,7 @@ A simple dodging game made in Pygame
 
 ## File Structure
 - `TBG.jpg`: [Background image](TBG.jpg)
-- `TBGM.mp3`: [Background music](TBGM.mp3)
+- `TBGM.mp3`: Background music
 - `Tchaikovsky's_Challenge.py`: Script for running the game
 
 ## Author
